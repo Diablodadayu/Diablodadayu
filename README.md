@@ -4,6 +4,7 @@
 ---
 
 My name is Terence and I am a backend developer based in Waterloo, ON.
+
 I also have experience in iOS and embedded system development.
 
 ---
